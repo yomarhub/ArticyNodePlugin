@@ -1,0 +1,36 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "ArticyPlus",
+  "Description": "",
+  "Category": "Articy",
+  "CreatedBy": "FlowOfLogic",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": "true",
+  "Installed": false,
+  "IsBetaVersion": false,
+  "Modules": [
+    {
+      "Name": "ArticyPlus",
+      "Type": "Editor",
+      "LoadingPhase": "PreLoadingScreen"
+    },
+    {
+      "Name": "ArticyPlusRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "ArticyXImporter",
+      "Enabled": true,
+      "SupportedTargetPlatforms": null
+    }
+  ],
+  "SupportedTargetPlatforms": null
+}
